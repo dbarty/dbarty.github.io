@@ -12,6 +12,12 @@ header img {
   box-shadow: 0 0 0 1px;
 }
 
-header h1, header p:first, section h1, section h3 {
+header>h1, header>p:first, section>h1, section>h3 {
   color: #ff9900;
+}
+
+img.certlogo {
+  border: none;
+  width: 80px;
+  height: 80px;
 }
