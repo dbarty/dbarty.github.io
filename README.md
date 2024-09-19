@@ -14,6 +14,32 @@
 - Fachinformatiker SI
 
 ### Certificates
+
+<table>
+  <tr>
+    <td>
+      <a href="https://verify.openedg.org/?id=2rHu.qR6p.NFQi">
+        <img src="assets/img/badges/pcap.png" alt="Logo: PCAP – Certified Associate in Python Programming" title="Visit OpenEDG" class="cert-logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://verify.openedg.org/?id=t4m7.SRca.z3MD">
+        <img src="assets/img/badges/pcep.png" alt="Logo: PCEP – Certified Entry-Level Python Programmer" title="Visit OpenEDG" class="cert-logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://verify.openedg.org/?id=t4m7.SRca.z3MD">
+        <img src="assets/img/badges/pspo1.png" alt="Logo: Professional Scrum Product Owner™ I (PSPO I)" title="Visit Credly.com" class="cert-logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://verify.openedg.org/?id=t4m7.SRca.z3MD">
+        <img src="assets/img/badges/psm1.png" alt="Logo: Professional Scrum Master™ I (PSM I)" title="Visit Credly.com" class="cert-logo">
+      </a>
+    </td>
+  </tr>
+</table>
+
 - [PCAP – Certified Associate in Python Programming](https://verify.openedg.org/?id=2rHu.qR6p.NFQi)
 - [PCEP – Certified Entry-Level Python Programmer](https://verify.openedg.org/?id=t4m7.SRca.z3MD)
 - Scrum Product Owner
