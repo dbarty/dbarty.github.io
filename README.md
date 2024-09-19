@@ -1,6 +1,6 @@
 # Product Owner, Software Developer
 
-Contact me: [LinkedIn](https://www.linkedin.com/in/danielbarty/) | [Xing](https://www.xing.com/profile/Daniel_Barty/)
+Contact me: [LinkedIn](https://www.linkedin.com/in/danielbarty/) - [Xing](https://www.xing.com/profile/Daniel_Barty/)
 
 ### Work Experience
 #### Product Owner | Quentic GmbH
