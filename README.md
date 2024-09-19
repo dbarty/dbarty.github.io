@@ -52,8 +52,9 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/danielbarty/) - [Xing](https:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" class="lt-logo">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" class="lt-logo">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" class="lt-logo">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT" title="GIT" class="lt-logo">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" class="lt-logo">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT" title="GIT" class="lt-logo">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" title="Jira" class="lt-logo">&nbsp;
 </div>
 
 
