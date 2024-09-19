@@ -1,5 +1,7 @@
 # Product Owner, Software Developer
 
+Contact me: [LinkedIn](https://www.linkedin.com/in/danielbarty/) | [Xing](https://www.xing.com/profile/Daniel_Barty/)
+
 ### Work Experience
 #### Product Owner | Quentic GmbH
 - Stakeholder management in the ongoing sorftware migration process
@@ -53,11 +55,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT" title="GIT" class="lt-logo">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" class="lt-logo">&nbsp;
 </div>
-
-### Social
-  - [LinkedIn](https://www.linkedin.com/in/danielbarty/)
-  - Xing
-
 
 
 
