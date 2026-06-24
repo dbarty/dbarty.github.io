@@ -4,7 +4,7 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/danielbarty/) - [Xing](https:
 
 ### Work Experience
 #### Product Owner | Quentic GmbH
-- Stakeholder management in the ongoing sorftware migration process
+- Stakeholder management in the ongoing software migration process
 
 #### Senior PHP Developer | BestSearchMedia (BestFewo)
 - Concept and development for a high performant LivePrice service in search result lists
